@@ -1,0 +1,8 @@
+
+{
+  "name": "skycast",
+  "description": "A creative, AI-powered weather application that uses Gemini 3 Flash with Google Search grounding to provide real-time weather updates and personalized activity recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
